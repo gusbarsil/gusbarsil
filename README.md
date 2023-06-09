@@ -1,18 +1,14 @@
-### Olá, 👋 meu nome é Gustavo Barbosa!
-Eu sou um estudante de programação! Atualmente sou aluno do curso técnico de Desenvolvimentos de Sistemas no Senai São Paulo.
-Tenho conhecimentos sólidos em algumas linguagens como HTML, CSS, JavaScript, TypeScript e Python. Agradeço desde já a sua visita ao meu Github :)
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="10px" height="35px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="10px" height="35px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="10px" height="35px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" widht="10px" height="35px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht="10px" height="35px" />
+### Olá 🙋‍♂️ Seja muito bem-vindo(a) ao meu perfil!
+##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gusbarsil&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusbarsil&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ##
 
-[![gusbarsil's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gusbarsil&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gusbarsil/github-readme-stats#gh-dark-mode-only)
-[![gusbarsil's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gusbarsil&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gusbarsil/github-readme-stats#gh-light-mode-only)
+![Snake animation](https://github.com/VictorPnheiro/VictorPnheiro/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
