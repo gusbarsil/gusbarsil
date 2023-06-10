@@ -8,6 +8,9 @@
 
 ##
 
+![Snake animation](https://github.com/gusbarsil/gusbarsil/blob/output/github-contribution-grid-snake.svg)
+
+##
 #### Entre em contato :)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobarsil/)
 [![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gustavobarbosadasilva@proton.me)
