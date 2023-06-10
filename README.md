@@ -11,7 +11,8 @@
 ![Snake animation](https://github.com/gusbarsil/gusbarsil/blob/output/github-contribution-grid-snake.svg)
 
 ##
-#### Entre em contato :)
+
+#### Entre em contato comigo ↴
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobarsil/)
 [![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gustavobarbosadasilva@proton.me)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusbarsil)
