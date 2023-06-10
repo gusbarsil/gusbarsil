@@ -6,6 +6,8 @@
 
 ##
 
-#### Entre em contato comigo ↴
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobarsil/)
-[![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gustavobarbosadasilva@proton.me)
+<div>
+  <a href="https://www.linkedin.com/in/gustavobarsil/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30px" />
+  </a>
+</div>
