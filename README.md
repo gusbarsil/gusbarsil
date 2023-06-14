@@ -1,7 +1,7 @@
 <h3 align="center">Olá! 👋 Seja bem-vindo(a)</h3>
 
 <h4 align="center">
-💻 desenvolvedor fullstack | 📚 ads, senai são paulo  | 💬 contato ➝ <a href="https://www.linkedin.com/in/gustavobarsil/">@gustavobarsil</a>
+💻 desenvolvedor front-end | 📚 ads, senai são paulo  | 💬 contato ➝ <a href="https://www.linkedin.com/in/gustavobarsil/">@gustavobarsil</a>
 </h4>
 
 
