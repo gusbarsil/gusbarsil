@@ -15,7 +15,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in//">
+  <a href="https://www.linkedin.com/in/gustavobarsil/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30px" />
   </a>
 </div>
