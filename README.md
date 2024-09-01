@@ -1,7 +1,7 @@
 <h3 align="center">Olá! 👋 Seja bem-vindo(a)</h3>
 
 <h4 align="center">
-📚 desenv. sistemas, senai "roberto simonsen"  | 💬 contato ➝ <a href="https://www.linkedin.com/in/gustavobarsil/">@gustavobarsil</a>
+📚 desenv. sistemas, senai são paulo  | 💬 contato ➝ <a href="https://www.linkedin.com/in/gustavobarsil/">@gustavobarsil</a>
 </h4>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
   <h4>🗄️ Banco de Dados e Hospedagem em Nuvem:</h4>
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
   <h4>💻 Softwares e Ferramentas:</h4>
 
