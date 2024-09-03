@@ -29,8 +29,4 @@
 <samp> - 🌱 Atualmente sou competidor do SENAI Roberto Simonsen, na modalidade de Desenvolvimento Mobile.</samp>
 <br>
 <samp> - 🐣 Minhas principais stacks são Flutter, Kotlin e, no geral, Android.</samp>
-<br>
-<samp> - 🚗 Gosto muito de carros.</samp>
-<br>
-<samp> - 🧙 Tenho 20 anos.</samp>
 
