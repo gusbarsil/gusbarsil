@@ -26,7 +26,7 @@
 
 <h4>Sobre mim ↴</h4>
 
-<samp> - 🌱 Atualmente sou competidor do SENAI Roberto Simonsen, na modalidade de Desenvolvimento Mobile.</samp>
+<samp> - 🌱 Atualmente estudando Flutter, Xamarin e .NET</samp>
 <br>
 <samp> - 🐣 Minhas principais stacks são Flutter, Kotlin e, no geral, Android.</samp>
 
