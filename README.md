@@ -1,7 +1,7 @@
 <h3 align="center">Olá! 👋 Seja bem-vindo(a)</h3>
 
 <h4 align="center">
-📚 desenv. sistemas, senai são paulo  | 💬 contato ➝ <a href="https://www.linkedin.com/in/gustavobarsil/">@gustavobarsil</a>
+📚 desenv. sistemas, senai são paulo & fei, ciência da computação  | 💬 contato ➝ <a href="https://www.linkedin.com/in/gustavobarsil/">@gustavobarsil</a>
 </h4>
 
 <p align="center">
