@@ -5,7 +5,7 @@
 </h4>
 
 <p align="center">
-  <samp>Desenvolvedor mobile com experiência em diversos projetos, principalmente utilizando Flutter, Kotlin, Swift, Firebase, também lidando com prototipação utilizando técnicas de UI/UX no Figma. Habilidade no consumo de APIs e na integração com o Google Cloud Platform.
+  <samp>Desenvolvedor mobile com experiência em diversos projetos, principalmente utilizando Flutter, Kotlin, Swift, Firebase.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=gusbarsil" alt="https://github.com/gusbarsil" />
@@ -26,7 +26,7 @@
 
 <h4>Sobre mim ↴</h4>
 
-<samp> - 🌱 Atualmente estudando Flutter, Xamarin e .NET</samp>
+<samp> - 🌱 Atualmente estudando Flutter, Swift, Xamarin e .NET</samp>
 <br>
-<samp> - 🐣 Minhas principais stacks são Flutter, Kotlin e, no geral, Android.</samp>
+<samp> - 🐣 Minhas principais stacks são Flutter, Kotlin, Swift e, no geral, desenvolvimento para dispositivos móveis.</samp>
 
