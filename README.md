@@ -28,5 +28,5 @@
 
 <samp> - 🌱 Atualmente estudando Flutter, Swift e Ciência da Computação na FEI</samp>
 <br>
-<samp> - 🐣 Minhas principais stacks são Flutter, Kotlin, Swift e, no geral, desenvolvimento para dispositivos móveis.</samp>
+<samp> - 🐣 Minhas principais stacks são Flutter, Kotlin, Swift e, no geral, desenvolvimento mobile.</samp>
 
