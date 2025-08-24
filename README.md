@@ -26,7 +26,7 @@
 
 <h4>Sobre mim ↴</h4>
 
-<samp> - 🌱 Atualmente estudando Flutter, Swift, Xamarin e .NET</samp>
+<samp> - 🌱 Atualmente estudando Flutter, Swift e Ciência da Computação na FEI</samp>
 <br>
 <samp> - 🐣 Minhas principais stacks são Flutter, Kotlin, Swift e, no geral, desenvolvimento para dispositivos móveis.</samp>
 
